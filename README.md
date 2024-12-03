@@ -5,7 +5,7 @@
 📫 How to reach me: [marwashabaan415@gmail.com](mailto:marwashabaan415@gmail.com)  
 😄 Pronouns: She/Her
 
-📄 [Check out my Resume](https://drive.google.com/file/d/1GTvl_aZd2xYwirajWujKdA7L9fGBwv0z/view?usp=drive_link)
+📄 [Check out my Resume](https://drive.google.com/file/d/1Yjd1BhQAGTMMm498HaoOcTFhJh8TgUe7/view?usp=sharing)
 
 
 <!---
