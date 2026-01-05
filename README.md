@@ -58,7 +58,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/marwa-shaban-9844b7283  
+- 💼 LinkedIn: https://www.linkedin.com/in/marwashaaban123/ 
 - 📧 Email: marwashabaan415@gmail.com  
 - 🌍 GitHub: https://github.com/MarwaShaaban20  
 
