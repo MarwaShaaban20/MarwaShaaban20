@@ -206,16 +206,6 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 
 ---
 
-<div align="center">
-
-### 📊 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MarwaShaaban20&color=F2CF63&style=for-the-badge&label=PROFILE+VIEWS)
-
-### ⚡ Fun Fact
-**I turn Coffee ☕ into Data Insights 📊**
-
----
 
 **💙 If you like what you see, don't forget to give a Star ⭐**
 
