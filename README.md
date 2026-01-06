@@ -182,17 +182,6 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 
 ---
 
-## 📚 Latest Articles & Resources
-
-<!-- BLOG-POST-LIST:START -->
-- 🎤 Building Audify: A Journey into Smart Voice Systems
-- 📊 Complete Guide to Power BI: From Basics to Advanced
-- 🤖 Fine-Tuning LLMs for Arabic: Challenges & Solutions
-- 💡 5 Data Analysis Projects to Boost Your Portfolio
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
