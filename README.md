@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FAF8F7,100:FFFFFF&height=300&section=header&text=Marwa%20Shaaban&fontSize=80&fontColor=2E9EFF&animation=fadeIn&desc=Data%20Analyst%20|%20AI%20Graduate%20|%20Storyteller%20with%20Data&descSize=20&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5C3A21,100:8B5A3C&height=300&section=header&text=Marwa%20Shaaban&fontSize=80&fontColor=D4AF37&animation=fadeIn&desc=Data%20Analyst%20|%20AI%20Graduate%20|%20Storyteller%20with%20Data&descSize=20&descAlignY=65)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=800&height=100&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,32 +15,34 @@
 Hello! I'm **Marwa Shaaban Eid** 🌟  
 A Computer Science & Artificial Intelligence graduate from Cairo University, specializing in **Data Analytics and Artificial Intelligence**.
 
-```python
-class MarwaShaaban:
-    def __init__(self):
-        self.name = "Marwa Shaaban Eid"
-        self.role = "Data Analyst & AI Graduate"
-        self.location = "Giza, Egypt 🇪🇬"
-        self.education = "BSc Computer Science & AI - Cairo University"
-        self.languages = ["Arabic", "English"]
-        
-    def skills(self):
-        return {
-            "data_analysis": ["Python", "Pandas", "NumPy", "SQL"],
-            "visualization": ["Power BI", "Tableau", "Matplotlib", "Seaborn"],
-            "machine_learning": ["Scikit-learn", "TensorFlow", "PyTorch"],
-            "nlp": ["NLTK", "Transformers", "LLaMA 3", "Phi-2"],
-            "tools": ["Jupyter", "Git", "VS Code", "Excel"]
-        }
-    
-    def current_focus(self):
-        return [
-            "📊 Building interactive dashboards",
-            "🤖 Fine-tuning LLMs for Arabic language",
-            "🧠 Exploring deep learning in NLP",
-            "💼 Seeking Data Analyst opportunities"
-        ]
-```
+**👤 Name:** Marwa Shaaban Eid  
+**💼 Role:** Data Analyst & AI Graduate  
+**📍 Location:** Giza, Egypt 🇪🇬  
+**🎓 Education:** BSc Computer Science & AI - Cairo University  
+**🗣️ Languages:** Arabic, English
+
+### 🛠️ Skills & Expertise
+
+**📊 Data Analysis:**  
+Python • Pandas • NumPy • SQL
+
+**📈 Data Visualization:**  
+Power BI • Tableau • Matplotlib • Seaborn
+
+**🤖 Machine Learning:**  
+Scikit-learn • TensorFlow • PyTorch
+
+**💬 Natural Language Processing:**  
+NLTK • Transformers • LLaMA 3 • Phi-2
+
+**🔧 Tools & Platforms:**  
+Jupyter • Git • VS Code • Excel
+
+### 🎯 Current Focus
+- 📊 Building interactive dashboards
+- 🤖 Fine-tuning LLMs for Arabic language
+- 🧠 Exploring deep learning in NLP
+- 💼 Seeking Data Analyst opportunities
 
 ---
 
@@ -153,15 +155,15 @@ class MarwaShaaban:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarwaShaaban20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EFF&icon_color=2E9EFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarwaShaaban20&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=5C3A21&title_color=D4AF37&icon_color=D4AF37&text_color=F5DEB3"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaShaaban20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaShaaban20&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=5C3A21&title_color=D4AF37&text_color=F5DEB3"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwaShaaban20&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EFF&fire=2E9EFF&currStreakLabel=2E9EFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwaShaaban20&theme=default&hide_border=true&background=5C3A21&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5DEB3&dates=F5DEB3&currStreakNum=F5DEB3&sideNums=F5DEB3)](https://git.io/streak-stats)
 
 </div>
 
@@ -171,7 +173,7 @@ class MarwaShaaban:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MarwaShaaban20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MarwaShaaban20&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -185,7 +187,7 @@ class MarwaShaaban:
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaShaaban20&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EFF&line=58A6FF&point=FFFFFF)](https://github.com/MarwaShaaban20)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaShaaban20&theme=github-dark-dimmed&hide_border=true&bg_color=5C3A21&color=D4AF37&line=D4AF37&point=F5DEB3)](https://github.com/MarwaShaaban20)
 
 ---
 
@@ -244,7 +246,7 @@ class MarwaShaaban:
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard&border=true&bg_color=5C3A21&text_color=F5DEB3&author_color=D4AF37)
 
 </div>
 
@@ -254,7 +256,7 @@ class MarwaShaaban:
 
 ### 📊 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MarwaShaaban20&color=2E9EFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=MarwaShaaban20&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### ⚡ Fun Fact
 **I turn Coffee ☕ into Data Insights 📊**
@@ -267,4 +269,4 @@ class MarwaShaaban:
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5A3C,100:5C3A21&height=120&section=footer)
