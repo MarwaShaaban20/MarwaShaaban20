@@ -148,39 +148,6 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarwaShaaban20&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=5B2D16&title_color=F2CF63&icon_color=F2CF63&text_color=DAB592"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaShaaban20&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=5B2D16&title_color=F2CF63&text_color=DAB592"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwaShaaban20&theme=default&hide_border=true&background=5B2D16&ring=F2CF63&fire=F2CF63&currStreakLabel=F2CF63&sideLabels=DAB592&dates=DAB592&currStreakNum=DAB592&sideNums=DAB592)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MarwaShaaban20&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-**🎓 Certifications:**
-- ✅ Google Data Analytics Professional Certificate (In Progress)
-- ✅ Machine Learning Specialization
-- ✅ Deep Learning Specialization
-- ✅ Power BI Data Analyst
-
----
 
 ## 📈 Contribution Activity
 
