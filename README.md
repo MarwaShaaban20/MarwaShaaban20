@@ -23,7 +23,8 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 - 🤖 Working with Arabic & Egyptian dialect NLP
 - 💼 Seeking Data Analyst opportunities
 - ❤️ Contributing to Open Source
-- 💻 Visit my **Portfolio** for more details about me.
+- 💻 Visit my [**Portfolio**](https://lovable.dev/projects/63e8f087-0a11-4230-9766-7021b40bd709) for more details about me.
+- 📄 Download my [**CV**](https://drive.google.com/file/d/1ypnfOlFPFxm7orJ-hWqUKhxY7-A_g7jI/view?usp=sharing)
 
 ---
 
@@ -104,13 +105,13 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 <div align="center">
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AI/ML" width="65" height="65" />
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="65" height="65" />
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" />
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="65" height="65" />
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Database" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
 
 </div>
 
@@ -229,10 +230,11 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-shaaban-9844b7283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwashaaban123/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwashabaan415@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarwaShaaban20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marwashaaban20.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lovable.dev/projects/63e8f087-0a11-4230-9766-7021b40bd709)
+[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ypnfOlFPFxm7orJ-hWqUKhxY7-A_g7jI/view?usp=sharing)
 
 </div>
 
