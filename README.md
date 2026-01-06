@@ -1,10 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Marwa%20Shaaban&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20|%20AI%20Graduate%20|%20Storyteller%20with%20Data&descSize=20&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FAF8F7,100:FFFFFF&height=300&section=header&text=Marwa%20Shaaban&fontSize=80&fontColor=2E9EFF&animation=fadeIn&desc=Data%20Analyst%20|%20AI%20Graduate%20|%20Storyteller%20with%20Data&descSize=20&descAlignY=65)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=800&height=100&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
+
+<br><br>
 
 ---
 
