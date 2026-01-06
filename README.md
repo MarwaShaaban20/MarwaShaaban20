@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F2CF63&center=true&vCenter=true&width=800&height=100&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,39 +10,20 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 I'M MARWA!
 
-Hello! I'm **Marwa Shaaban Eid** 🌟  
-A Computer Science & Artificial Intelligence graduate from Cairo University, specializing in **Data Analytics and Artificial Intelligence**.
+*Digital Craftsman (Data Analyst / AI Graduate)*
 
-**👤 Name:** Marwa Shaaban Eid  
-**💼 Role:** Data Analyst & AI Graduate  
-**📍 Location:** Giza, Egypt 🇪🇬  
-**🎓 Education:** BSc Computer Science & AI - Cairo University  
-**🗣️ Languages:** Arabic, English
+I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python, Power BI, Data Visualization, NLP and Predictive Analytics.
 
-### 🛠️ Skills & Expertise
-
-**📊 Data Analysis:**  
-Python • Pandas • NumPy • SQL
-
-**📈 Data Visualization:**  
-Power BI • Tableau • Matplotlib • Seaborn
-
-**🤖 Machine Learning:**  
-Scikit-learn • TensorFlow • PyTorch
-
-**💬 Natural Language Processing:**  
-NLTK • Transformers • LLaMA 3 • Phi-2
-
-**🔧 Tools & Platforms:**  
-Jupyter • Git • VS Code • Excel
-
-### 🎯 Current Focus
-- 📊 Building interactive dashboards
-- 🤖 Fine-tuning LLMs for Arabic language
-- 🧠 Exploring deep learning in NLP
+- ✨ Student of life :)
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
+- 🎓 Fresh Graduate from **Computer Science & Artificial Intelligence - Cairo University**
+- 📊 Passionate about turning data into actionable insights
+- 🤖 Working with Arabic & Egyptian dialect NLP
 - 💼 Seeking Data Analyst opportunities
+- ❤️ Contributing to Open Source
+- 💻 Visit my **Portfolio** for more details about me.
 
 ---
 
@@ -118,7 +99,22 @@ Jupyter • Git • VS Code • Excel
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Tools
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -155,15 +151,15 @@ Jupyter • Git • VS Code • Excel
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarwaShaaban20&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=5C3A21&title_color=D4AF37&icon_color=D4AF37&text_color=F5DEB3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarwaShaaban20&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=5B2D16&title_color=F2CF63&icon_color=F2CF63&text_color=DAB592"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaShaaban20&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=5C3A21&title_color=D4AF37&text_color=F5DEB3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaShaaban20&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=5B2D16&title_color=F2CF63&text_color=DAB592"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwaShaaban20&theme=default&hide_border=true&background=5C3A21&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5DEB3&dates=F5DEB3&currStreakNum=F5DEB3&sideNums=F5DEB3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwaShaaban20&theme=default&hide_border=true&background=5B2D16&ring=F2CF63&fire=F2CF63&currStreakLabel=F2CF63&sideLabels=DAB592&dates=DAB592&currStreakNum=DAB592&sideNums=DAB592)](https://git.io/streak-stats)
 
 </div>
 
@@ -187,7 +183,7 @@ Jupyter • Git • VS Code • Excel
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaShaaban20&theme=github-dark-dimmed&hide_border=true&bg_color=5C3A21&color=D4AF37&line=D4AF37&point=F5DEB3)](https://github.com/MarwaShaaban20)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaShaaban20&theme=github-dark-dimmed&hide_border=true&bg_color=5B2D16&color=F2CF63&line=F2CF63&point=DAB592)](https://github.com/MarwaShaaban20)
 
 ---
 
@@ -246,7 +242,7 @@ Jupyter • Git • VS Code • Excel
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard&border=true&bg_color=5C3A21&text_color=F5DEB3&author_color=D4AF37)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard&border=true&bg_color=5B2D16&text_color=DAB592&author_color=F2CF63)
 
 </div>
 
@@ -256,7 +252,7 @@ Jupyter • Git • VS Code • Excel
 
 ### 📊 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MarwaShaaban20&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=MarwaShaaban20&color=F2CF63&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### ⚡ Fun Fact
 **I turn Coffee ☕ into Data Insights 📊**
@@ -269,4 +265,4 @@ Jupyter • Git • VS Code • Excel
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5A3C,100:5C3A21&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:D9AE96,100:5B2D16&height=120&section=footer)
