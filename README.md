@@ -148,12 +148,6 @@ I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python,
 
 ---
 
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaShaaban20&theme=github-dark-dimmed&hide_border=true&bg_color=5B2D16&color=F2CF63&line=F2CF63&point=DAB592)](https://github.com/MarwaShaaban20)
-
----
-
 ## 🎯 Current Goals
 
 <table>
