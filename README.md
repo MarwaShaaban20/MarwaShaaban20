@@ -1,212 +1,383 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5C3A21,100:8B5A3C&height=300&section=header&text=Marwa%20Shaaban&fontSize=80&fontColor=D4AF37&animation=fadeIn&desc=Data%20Analyst%20|%20AI%20Graduate%20|%20Storyteller%20with%20Data&descSize=20&descAlignY=65)
+<!-- ========================================= -->
+<!--                HERO SECTION               -->
+<!-- ========================================= -->
 
-<div align="center">
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F2CF63&center=true&vCenter=true&width=800&height=100&lines=Fresh+Graduate+from+FCAI+Cairo+%F0%9F%8E%93;Data+Analyst+%26+Visualization+Expert+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%A1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Marwa%20Shaaban&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20AI%20Graduate&descAlignY=58&descSize=20"/>
 
-</div>
+</p>
 
-<br><br>
+<p align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python;Building+Interactive+Dashboards;Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
 
-## 👩‍💻 I'M MARWA!
-
-*Digital Craftsman (Data Analyst / AI Graduate)*
-
-I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python, Power BI, Data Visualization, NLP and Predictive Analytics.
-
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🎓 Fresh Graduate from **Computer Science & Artificial Intelligence - Cairo University**
-- 📊 Passionate about turning data into actionable insights
-- 🤖 Working with Arabic & Egyptian dialect NLP
-- 💼 Seeking Data Analyst opportunities
-- ❤️ Contributing to Open Source
-- 💻 Visit my [**Portfolio**](https://lovable.dev/projects/63e8f087-0a11-4230-9766-7021b40bd709) for more details about me.
-- 📄 Download my [**CV**](https://drive.google.com/file/d/1ypnfOlFPFxm7orJ-hWqUKhxY7-A_g7jI/view?usp=sharing)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 👋 Hi, I'm Marwa
+
+I'm a **Data Analyst** and **AI Graduate** passionate about turning raw data into meaningful business decisions.
+
+I enjoy building dashboards, analyzing business performance, discovering hidden insights, and solving real-world problems using data.
+
+Currently focusing on:
+
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🐍 Python
+- 🗄 SQL
+- 📉 Power BI
+- 🤖 Machine Learning
+
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://marwashaaban-dataanalyst.lovable.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marwashaaban123/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:marwashabaan415@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MarwaShaaban20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://marwashaaban-dataanalyst.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1ypnfOlFPFxm7orJ-hWqUKhxY7-A_g7jI/view">
+<img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+```python
+class MarwaShaaban:
+
+    def __init__(self):
+
+        self.role = "Data Analyst"
+
+        self.location = "Egypt"
+
+        self.languages = [
+            "Python",
+            "SQL",
+            "DAX"
+        ]
+
+        self.tools = [
+            "Power BI",
+            "Excel",
+            "Tableau",
+            "Git",
+            "VS Code"
+        ]
+
+        self.interests = [
+            "Business Intelligence",
+            "Data Visualization",
+            "Machine Learning",
+            "Analytics"
+        ]
+
+    def motto(self):
+
+        return "Turning Data into Decisions 📊"
+
+---
+
+# 💼 What I Do
+
+✔ Clean messy datasets
+
+✔ Build interactive dashboards
+
+✔ Analyze KPIs
+
+✔ Discover hidden insights
+
+✔ Automate reports
+
+✔ Support business decisions using data
+
+---
+---
+
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%">
 
-### 🎤 Audify - Smart Voice Editing System
-**Grade: A+ | Featured in Top Projects Showcase**
+<td width="50%" valign="top">
 
-- 🔊 High-accuracy Speech-to-Text
-- 🎭 Voice Cloning capabilities
-- 🛠️ XTTS-v2 technology
-- 📱 User-friendly interface
+## ⛽ Live Fuel Global Price Dashboard
 
-**Tech Stack:** Python, Transformers, XTTS-v2
+An interactive Power BI dashboard analyzing global fuel prices with advanced KPIs and visual storytelling.
 
-[🔗 View Project](https://github.com/MarwaShaaban20)
+### ✨ Highlights
 
-</td>
-<td width="50%">
+- Interactive Filters
+- Global Comparison
+- Trend Analysis
+- DAX Measures
+- Business Insights
 
-### 📊 Power BI Dashboards
-**Professional Business Intelligence Solutions**
+**Tech Stack**
 
-- 💼 HR Analytics Dashboard
-- 🏦 Banking Performance Dashboard
-- 📈 Sales & Revenue Analysis
-- 📉 KPI Tracking Systems
+`Power BI` `Excel` `DAX`
 
-**Tech Stack:** Power BI, DAX, SQL
+🔗 Repository
 
-[🔗 View Dashboards](https://github.com/MarwaShaaban20/HR-Dashboard-)
+https://github.com/MarwaShaaban20/Live-Fuel-Global-Price-Dashboard
 
 </td>
+
+<td width="50%" valign="top">
+
+## 👥 HR Analytics Dashboard
+
+A business intelligence dashboard helping HR teams monitor workforce performance and employee analytics.
+
+### ✨ Highlights
+
+- Employee Overview
+- Attrition Analysis
+- KPIs
+- Department Performance
+- Interactive Dashboard
+
+**Tech Stack**
+
+`Power BI`
+
+🔗 Repository
+
+https://github.com/MarwaShaaban20/HR-Dashboard-
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🤖 Fine-Tuning LLMs
-**Optimizing AI Language Models**
+<td width="50%" valign="top">
 
-- 🧠 LLaMA 3 for medical data
-- 💊 Phi-2 for mental health
-- 🇪🇬 Egyptian dialect processing
-- ✅ Model accuracy evaluation
+## 🐦 Twitter Sentiment Analysis
 
-**Tech Stack:** PyTorch, Transformers, LoRA
+Deep Learning model for sentiment classification using Convolutional Neural Networks.
 
-[🔗 View Project](https://github.com/MarwaShaaban20)
+### ✨ Highlights
+
+- Data Cleaning
+- NLP
+- CNN
+- Sentiment Classification
+- Model Evaluation
+
+**Tech Stack**
+
+`Python`
+
+`TensorFlow`
+
+`CNN`
+
+`NLTK`
+
+🔗 Repository
+
+https://github.com/MarwaShaaban20/Twitter-Sentiment-Analysis-using-CNN-
 
 </td>
-<td width="50%">
 
-### 💬 Twitter Sentiment Analysis
-**AI-Powered Sentiment Classification**
+<td width="50%" valign="top">
 
-- 📱 Twitter data analysis
-- 🎭 Sentiment classification (Positive/Negative/Neutral)
-- 🧠 CNN Architecture
-- 📊 High classification accuracy
+## 🎤 AUDIFY
 
-**Tech Stack:** Python, TensorFlow, CNN
+Graduation Project (A+)
 
-[🔗 View Project](https://github.com/MarwaShaaban20/Twitter-Sentiment-Analysis-using-CNN-)
+Arabic Speech-to-Text & Text-to-Speech platform with Voice Cloning capabilities.
+
+### ✨ Highlights
+
+- Speech Recognition
+- Text to Speech
+- Voice Cloning
+- Egyptian Arabic Support
+
+**Tech Stack**
+
+`Python`
+
+`Transformers`
+
+`XTTS-v2`
+
+`Deep Learning`
+
+🔗 GitHub Profile
+
+https://github.com/MarwaShaaban20
 
 </td>
+
 </tr>
+
 </table>
 
 ---
+# 🛠 Tech Stack
 
-## 🛠️ Technical Skills & Tools
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,tensorflow,pytorch,sklearn"/>
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AI/ML" width="65" height="65" />
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="65" height="65" />
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" />
-<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="65" height="65" />
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Database" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</p>
 
-</div>
+<p align="center">
 
-<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,jupyter"/>
 
-<div align="center">
-
-### 📊 Data Analysis & Visualization
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🗣️ NLP & Language Models
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### 💾 Databases & Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+</p>
 
 ---
 
-## 🎯 Current Goals
+## 📊 Analytics
 
-<table>
-<tr>
-<td>
+<p>
 
-### 💼 Professional
-- 🔍 Seeking Data Analyst opportunities
-- 📊 Building a strong project portfolio
-- 🤝 Networking with industry professionals
-- 📈 Contributing to Open Source projects
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</td>
-<td>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 📚 Learning
-- 🧠 Deepening knowledge in Advanced Analytics
-- 🤖 Studying LLMs & Generative AI
-- 📊 Mastering Data Storytelling
-- 💾 Learning Big Data Technologies
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DAX-0175C2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤖 Machine Learning
 
-<div align="center">
+<p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwashaaban123/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwashabaan415@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarwaShaaban20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lovable.dev/projects/63e8f087-0a11-4230-9766-7021b40bd709)
-[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ypnfOlFPFxm7orJ-hWqUKhxY7-A_g7jI/view?usp=sharing)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 
-</div>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 
----
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-## 💭 Quote of the Day
+<img src="https://img.shields.io/badge/NLP-3B82F6?style=for-the-badge"/>
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard&border=true&bg_color=5B2D16&text_color=DAB592&author_color=F2CF63)
-
-</div>
+</p>
 
 ---
-
-<div align="center">
-
 ---
 
-**💙 If you like what you see, don't forget to give a Star ⭐**
+# 📊 GitHub Analytics
 
-*"Data is not just numbers, it's stories waiting to be told"* ✨
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarwaShaaban20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:D9AE96,100:5B2D16&height=120&section=footer)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaShaaban20&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MarwaShaaban20&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MarwaShaaban20&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarwaShaaban20&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MarwaShaaban20/MarwaShaaban20/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+# 💬 Favorite Quote
+
+> **"Without data, you're just another person with an opinion."**  
+> *— W. Edwards Deming*
+
+---
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marwashaaban123">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:marwashabaan415@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MarwaShaaban20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://marwashaaban-dataanalyst.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=140&section=footer"/>
+
+</p>
